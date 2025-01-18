@@ -11,12 +11,11 @@ I am eager to apply my skill, knowledge, and experience to advancing the interes
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Python programming          | <a href="https://google.com">Python projects</a>|
+| Network | <a href="https://google.com">Networking projects</a>|
+| Security         | Security labs|
+| Cloud    | AWS projects |
+
 
 ## Tools
 
