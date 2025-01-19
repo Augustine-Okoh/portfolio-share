@@ -1,7 +1,7 @@
 # Hello, I'm Austine
-<a href="https://linkedin.com/in/augustine-okoh"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a graduate student in computer science interested in all things data - it's generation, use, storage, transmission, security, and governance.
+<a href="https://linkedin.com/in/augustine-okoh"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Objective
 
@@ -12,9 +12,9 @@ I am eager to apply my skill, knowledge, and experience to advancing the interes
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Data science   | ML AI Reinforcement Learning for CyberSecurity Research Project (Joint project betwween Tuskegee university & Yale)   |
-| Python programming          | <a href="https://google.com">Python projects</a>|
-| Networks | <a href="https://google.com">Networking projects</a>|
-| Security         | Security labs|
+| Python programming          | <a href="https://github.com/Augustine-Okoh/Python/README.md">Python projects</a>|
+| Networks | <a href="https://github.com/Augustine-Okoh/Networking/README.md">Networking projects</a>|
+| Security         | <a href="https://github.com/Augustine-Okoh/Security/README.mdSecurity labs|
 | Cloud    | AWS projects |
 
 
@@ -32,8 +32,10 @@ I am eager to apply my skill, knowledge, and experience to advancing the interes
 ### Data analytics
 <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ACL-006F5F?style=for-the-badge&logo=ACL&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Jupyter_Notebooks-F37626?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+
+
 </div>
 
 ## Certifications
