@@ -12,15 +12,15 @@ I am eager to apply my skill, knowledge, and experience to advancing the interes
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Data science   | ML AI Reinforcement Learning for CyberSecurity Research Project (Joint project betwween Tuskegee university & Yale)   |
-| Python programming          | <a href="https://github.com/Augustine-Okoh/Python/README.md">Python projects</a>|
-| Networks | <a href="https://github.com/Augustine-Okoh/Networking/README.md">Networking projects</a>|
+| Python programming          | <a href="https://github.com/Augustine-Okoh/portfolio-share#"> Python projects</a>|
+| Networks | <a href="https://github.com/Augustine-Okoh/portfolio-share#"> Networking projects</a>|
 | Security         | <a href="https://github.com/Augustine-Okoh/portfolio-share#"> Security labs|
-| Cloud    | AWS projects |
+| Cloud    | <a href="https://github.com/Augustine-Okoh/portfolio-share#"> AWS projects |
 
 
 ## Tools
 
-### Network & Cloud
+### Network, Cloud & Security
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1E7B00?&style=for-the-badge&logo=Cisco&logoColor=white" />
