@@ -14,7 +14,7 @@ I am eager to apply my skill, knowledge, and experience to advancing the interes
 | Data science   | ML AI Reinforcement Learning for CyberSecurity Research Project (Joint project betwween Tuskegee university & Yale)   |
 | Python programming          | <a href="https://github.com/Augustine-Okoh/Python/README.md">Python projects</a>|
 | Networks | <a href="https://github.com/Augustine-Okoh/Networking/README.md">Networking projects</a>|
-| Security         | <a href="https://github.com/Augustine-Okoh/Security/README.mdSecurity labs|
+| Security         | <a href="https://github.com/Augustine-Okoh/portfolio-share#"> Security labs|
 | Cloud    | AWS projects |
 
 
