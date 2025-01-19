@@ -11,43 +11,43 @@ I am eager to apply my skill, knowledge, and experience to advancing the interes
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Data science   | ML AI Reinforcement Learning for CyberSecurity Research Project (Joint project betwween Tuskegee university & Yale)   |
 | Python programming          | <a href="https://google.com">Python projects</a>|
-| Network | <a href="https://google.com">Networking projects</a>|
+| Networks | <a href="https://google.com">Networking projects</a>|
 | Security         | Security labs|
 | Cloud    | AWS projects |
 
 
 ## Tools
 
-### Network
+### Network & Cloud
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1E7B00?&style=for-the-badge&logo=Cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
 
-### SIEM
+### Data analytics
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-EY%20Analytics%20Bronze%20Badge-004B87?&style=for-the-badge&logo=EY&logoColor=white" />
+<img src="https://img.shields.io/badge/-CISA-0071BC?&style=for-the-badge&logo=CISA&logoColor=white" />
+<img src="https://img.shields.io/badge/-IASSC%20LSSGB-009639?&style=for-the-badge&logo=LeanSixSigma&logoColor=white" />
+<img src="https://img.shields.io/badge/-PRINCE2%20(2017)-0095D9?&style=for-the-badge&logo=PRINCE2&logoColor=white" />
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+-  ML AI Reinforcement Learning for CyberSecurity Research Project (Joint project betwween Tuskegee university & Yale
+-  Python programming
+-  Python projects
+-  Networking projects
+-  Security labs
+-  AWS projects
